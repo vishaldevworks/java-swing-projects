@@ -1,2 +1,8 @@
-com\mycompany\gui\NewClass.class
+com\mycompany\gui\table.class
+com\mycompany\gui\radioAndcheckbox.class
 com\mycompany\array\Array.class
+com\mycompany\gui\menubar.class
+com\mycompany\gui\swingfilechoser.class
+com\mycompany\gui\tree.class
+com\mycompany\gui\NewClass.class
+com\mycompany\gui\joptionpane.class
